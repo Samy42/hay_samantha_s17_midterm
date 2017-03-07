@@ -19,7 +19,7 @@ To get an estimate of email account usage per employee, I summed up the total nu
 
 ### Analysis:
 
-![alt text](./img/numemails.jpg "Histogram of Number of Emails Sent")
+![alt text](./img/numemails.JPG "Histogram of Number of Emails Sent")
 
 This histogram is unimodal and skewed to the left with very few people having sent over 2000 emails. This can indicate either a turnover rate of employees within the compoany or limited use of email for communication.
 
@@ -44,7 +44,7 @@ Next, I wanted to see how many different people each employee would contact. To 
 
 ### Analysis:
 
-![alt text](./img/numepeople.jpg "Histogram of Number of Unique People Contacted")
+![alt text](./img/numepeople.JPG "Histogram of Number of Unique People Contacted")
 
 This histogram shows a vaguely exponential distribution with more people only contacting a few people and a few employees emailing large numbers of different email addresses.
 
@@ -58,6 +58,6 @@ Finally, I wanted to see the average number of times each eployee contacted each
 
 ### Analysis:
 
-![alt text](./img/peopleperemail.jpg "Histogram of Number of People Per Email")
+![alt text](./img/peopleperemail.JPG "Histogram of Number of People Per Email")
 
 This histogram is unimodal with few outliers. It has a mean of 2.057 people and a mode of rouchly the same value. This means that each employee contacts each other person, on average, two times. This indicates that employees often converse brifly with people outside their frequent contacts.

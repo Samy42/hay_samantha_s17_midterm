@@ -62,4 +62,4 @@ Finally, I wanted to see the trends in the nations attention for Trump and Obama
 
 
 ### Analysis:
-
+![alt text](./img/trumpvobama.JPG "Number of Articles Mentioning Trump or Obama per year")
